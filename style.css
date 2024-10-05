@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap);
+
+
+footer {
+    text-align: center;
+    margin: 5em;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+  }
+
+  body{
+    font-family:'Pixelify Sans', sans-serif;
+    background-color: azure;
+  }
+
+  h1{
+    color: rgb(116, 165, 255);
+  }
+
+form{
+    background-color: aliceblue;
+    text-align: center;
+    max-width: 350px;
+    margin:auto;
+    padding:25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(77, 77, 77, 0.3);
+}
+
+#textBox{
+    width: 60%;
+    text-align: center;
+    font-family:'Pixelify Sans', sans-serif;
+    font-size: 2em;
+    border: 2px rgb(41, 40, 40);
+    border-radius: 5%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button{
+    margin: 15px;
+    background-color: rgb(59, 146, 226);
+    color:aliceblue;
+    font-size: 1.5em;
+    padding: 10px 15px;
+    border-radius: 5px;
+
+}
+
+button:hover{
+    background-color: rgb(33, 94, 151);
+
+}
+
+#result {
+    font-size: 1.75em;
+    font-weight: bold;
+}
